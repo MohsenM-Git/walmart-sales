@@ -45,7 +45,9 @@ and,
 <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/decomp.png" width="650"/>
 
 Understainding the data better helps the desing of farcasting models. It seems that determinsitic trends are the most important factors. 
+
 **Forecasting**
+
 I start by simulating a white noise to match and predict the sales series. Although, a white noise, by definition, is impossible to predit, as we see in the graph, it matches the data fairly well. I also use a number of `rolling-average` models. 
 
 * White Noise
@@ -68,11 +70,14 @@ Lstly, I forecast the sales series using standard time series models. In additio
 
 
 **Comparing Forecasts**
+
 This notebook ends with comparing various predicitive models. Four metrics that I use to compare out-of-smaple (train-test) accuracy of forecasts are: `RMSE`, `Normalized RMSE`, `MAE`, and `MAPE`.
 
 <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/rmse.png" width="650"/> 
 
 It is also helpful to compare these models visually.
+
+
 <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/comp-1.png" width="650"/> 
 <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/comp-2.png" width="650"/> 
 <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/comp-3.png" width="650"/> 
