@@ -12,7 +12,7 @@ Periodic sales are among the most important business indicators so much so that 
 
 **Data Preprocessing**
 I start by `merging` all datasets, cleaning them, and setting the time-index appropriately.
-<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/prep-1.png" width="450"/> <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/pre-2.png" width="450"/>
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/prep-1.png" width="450"/> <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/prep-2.png" width="450"/>
 
 **Data Exploration**
 
