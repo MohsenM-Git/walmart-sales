@@ -1,6 +1,6 @@
 # Walmart Sales: A Time Series Analysis
 
-<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/logo.jpeg" width="650"/>
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/logo.jpg" width="650"/>
 
 
 
