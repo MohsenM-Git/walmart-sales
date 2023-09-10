@@ -11,10 +11,27 @@ Periodic sales are among the most important business indicators so much so that 
 ## A Quick Look
 
 **Data Preprocessing**
-I start by `merging` all datasets, cleaning them, and setting the time-index appropriately.
-<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/prep-1.png" width="450"/> <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/prep-2.png" width="450"/>
+I start by merging all datasets, cleaning them, and setting the time-index appropriately.
+
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/prep-2.png" width="450"/> <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/prep-1.png" width="450"/>
 
 **Data Exploration**
+Then, I explore the both the fearures and the sales data with visualization tools in `Python`. These include:
+* feature analysis
+* 
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/unemp.png" width="650"/>
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/gasprice.png" width="650"/>
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/unemp-inf.png" width="650"/>
+
+* characteristics of stores
+
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/size-type.png" width="450"/> <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/type.png" width="450"/>
+
+and,
+
+* correlations
+
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/unemp.png" width="450"/> <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/unemp-inf.png" width="450"/>
 
 **ACF, PACF Plots**
 
