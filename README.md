@@ -18,7 +18,7 @@ I start by merging all datasets, cleaning them, and setting the time-index appro
 **Data Exploration**
 Then, I explore the both the fearures and the sales data with visualization tools in `Python`. These include:
 * feature analysis
-* 
+ 
 <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/unemp.png" width="650"/>
 <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/gasprice.png" width="650"/>
 <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/unemp-inf.png" width="650"/>
@@ -27,15 +27,23 @@ Then, I explore the both the fearures and the sales data with visualization tool
 
 <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/size-type.png" width="450"/> <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/type.png" width="450"/>
 
-and,
 
 * correlations
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/pair-plot.png" width="650"/>
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/corr.png" width="650"/>
 
-<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/unemp.png" width="450"/> <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/unemp-inf.png" width="450"/>
 
-**ACF, PACF Plots**
 
-**Seasonal Decompisiton**
+* tiem series of sales
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/acf.png" width="650"/>
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/pacf.png" width="650"/>
+
+and,
+
+* Seasonal Decompisiton
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/temp.png" width="650"/>
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/decomp.png" width="650"/>
+
 
 **Forecasting: White Noise**
 
