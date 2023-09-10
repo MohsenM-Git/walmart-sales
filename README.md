@@ -4,9 +4,10 @@
 
 
 
-Periodic sales are among the most important business indicators so much so that many corporations usually set public targets for thier quarterly and annual sales. Sales influence profit margins -by reducing logistic costs associated with under- and over-purchases, and improve customer satisfaction. However, sales data show different features that make predicting them a challenge. On the one hand, sales have strong relationships with general economic factros such as inflation and job market conditions, and consumer sentiment. On the other hand, sale series typically show seasonality effect and contain various deterministic and stochastic trends.Therefore, forecasting sales data is of both business and technical importance. In this project, I analyze Walmart's sales data and build a time series model which predicts sales of Walmart stores. 
+Periodic sales are among the most important business indicators so much so that many corporations usually set public targets for thier quarterly and annual sales. Sales influence profit margins -by reducing logistic costs associated with under- and over-purchases, and improve customer satisfaction. However, sales data show different features that make predicting them a challenge. On the one hand, sales have strong relationships with general economic factros such as inflation and job market conditions, and consumer sentiment. On the other hand, sale series typically show seasonality effect and contain various deterministic and stochastic trends.Therefore, forecasting sales data is of both business and technical importance. In this project, I analyze Walmart's sales data and build a model to predict its sales. 
 
-<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/SAR-1.png" width="300"/> <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/SAR-1.png" width="350"/>
+
+
 ## A Quick Look
 
 **Data Preprocessing**
@@ -23,7 +24,7 @@ Periodic sales are among the most important business indicators so much so that 
 **Forecasting: Exponential Smoothing**
 
 **Forecasting: Time Series Models**
-
+<img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/SAR-1.png" width="300"/> <img src="https://github.com/MohsenM-Git/walmart-sales/blob/main/Images/SAR-1.png" width="350"/>
 **Comparing Forecasts**
 
 **Visual Comparison**
